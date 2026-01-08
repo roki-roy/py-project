@@ -1,3 +1,5 @@
+#.. qr code making
+
 import qrcode
 
 from PIL import Image
